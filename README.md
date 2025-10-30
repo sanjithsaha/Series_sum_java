@@ -1,1 +1,1 @@
-# Series_sum_java
+Series-Sum
